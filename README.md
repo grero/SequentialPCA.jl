@@ -2,6 +2,7 @@
 
 ## Introduction
 [![Build Status](https://travis-ci.com/grero/SequentialPCA.jl.svg?branch=master)](https://travis-ci.com/grero/SequentialPCA.jl)
+[![Coverage Status](https://coveralls.io/repos/github/grero/SequentialPCA.jl/badge.svg?branch=master)](https://coveralls.io/github/grero/SequentialPCA.jl?branch=master)
 
 This implements the sequential PCA algorithm mentioned in [[1]](#aoietal).
 

@@ -1,6 +1,7 @@
 # Sequential PCA
 
 ## Introduction
+[![Build Status](https://travis-ci.com/grero/SequentialPCA.jl.svg?branch=master)](https://travis-ci.com/grero/SequentialPCA.jl)
 
 This implements the sequential PCA algorithm mentioned in [[1]](#aoietal).
 

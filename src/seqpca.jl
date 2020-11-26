@@ -25,7 +25,7 @@ function seqPCA(Y::Matrix{TT}) where TT <: Real
 		v = s[1]*s[1]/sum(s.*s)
 		if v > vmax
 			vmax = v
-			idx = D+i-1
+			idx = i 
 			um .= u[:,1]
 		end
 	end

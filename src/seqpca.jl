@@ -46,7 +46,7 @@ function seqPCA(Y, ncomp::Int64)
 end
 
 """
-Orthogonalizes the columsn on `U` usnig the Gramm-Schmitt method
+Orthogonalizes the columns of `U` using the Gramm-Schmitt method
 """
 function orthogonalize(U::Matrix{T}) where T <: Real
     d,n = size(U)
